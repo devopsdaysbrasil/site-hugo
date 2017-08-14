@@ -3,9 +3,8 @@ sudo: required
 services:
   - docker
 
-build:
-  script:
-    - docker container run --rm -it -v $(pwd):/srv jojomi/hugo hugo
+script:
+  - docker container run --rm -it -v $(pwd):/srv jojomi/hugo hugo
 
 deploy:
   provider: pages
