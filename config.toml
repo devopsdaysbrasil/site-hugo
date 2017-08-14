@@ -1,0 +1,4 @@
+baseURL = "http://devopsdays.com.br/"
+languageCode = "pt-br"
+title = "DevOpsDays Brasil"
+theme = "hemingway2"
