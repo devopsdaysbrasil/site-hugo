@@ -4,7 +4,7 @@ services:
   - docker
 
 script:
-  - docker container run --rm -it -v $(pwd):/srv jojomi/hugo hugo
+  - docker container run --rm -it -v $(pwd):/src jojomi/hugo hugo
 
 deploy:
   provider: pages
