@@ -15,9 +15,9 @@ Aqui vão mais algumas dicas:
 1.  Monte uma equipe extremamente variada.
 
 ## Comece pequeno
-A menos que já tenhas MUITA experiências em organização de eventos (e com isso queremos dizer conhecer locais que vão comportar o evento, patrocinadores, pessoas para keynotes, empresas para coffee breaks), e já tenha um capital de giro grande para "bancar" o evento antes mesmo de ter o dinheiro de volta, as chances de que o evento nem saia serão bem grandes caso queira começar por um evento gigantesco...  
+A menos que já tenhas MUITA experiência em organização de eventos (e com isso queremos dizer conhecer locais que vão comportar o evento, patrocinadores, pessoas para keynotes, empresas para coffee breaks, etc), e já tenha um capital de giro grande para "bancar" o evento antes mesmo de ter o dinheiro de volta, as chances de que o evento nem saia serão bem grandes caso queira começar por um evento gigantesco...  
 
-Não há nenhum problema em começar com um evento pequeno (um dia, menos de 200 participantes, etc)... Inclusive por começar com a idéia de poucos participantes te facilita em algumas coisas, como o local por exemplo... É possível conseguir com alguma instituição de ensino (geralmente Faculdades/Centros universitários/Universidades) o local como forma de apoio, porém esses locais costumam comportar pouca gente.
+Não há nenhum problema em começar com um evento pequeno (um dia, menos de 200 participantes, etc)... Inclusive começar com a idéia de poucos participantes te facilita em algumas coisas, como o local por exemplo... É possível conseguir com alguma instituição de ensino (geralmente Faculdades/Centros universitários/Universidades) o local como forma de apoio, porém esses locais costumam comportar pouca gente.
 
 Além de que é perfeitamente possível escalar o evento com o tempo (DevOpsDays POA 2016 foram 130 pessoas, 2017 foram 180...), assim não fica aquela sensação de local vazio porque foi organizado um local muito maior do que o número de pessoas presentes.
 
